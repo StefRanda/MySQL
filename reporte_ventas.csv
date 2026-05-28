@@ -1,0 +1,7 @@
+id_venta	cliente	pais	articulo	precio	cantidad	total_venta	fecha
+1	Juan Pérez	Argentina	Notebook Pro	1200.00	1	1200.00	2026-05-10
+4	María Castillo	Uruguay	Notebook Pro	1200.00	1	1200.00	2026-05-14
+3	Carlos Gómez	Argentina	Monitor 24 Pulgadas	250.00	1	250.00	2026-05-12
+6	Luis Fernández	Chile	Monitor 24 Pulgadas	250.00	2	500.00	2026-05-16
+2	Ana López	Chile	Teclado Mecánico	80.00	2	160.00	2026-05-11
+5	Juan Pérez	Argentina	Mouse Inalámbrico	40.00	3	120.00	2026-05-15
